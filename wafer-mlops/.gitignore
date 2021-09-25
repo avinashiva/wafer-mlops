@@ -87,3 +87,9 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# Dataset local folder
+Dataset/
+
+# VS workpsace 
+vsworkspace.code-workpsace
